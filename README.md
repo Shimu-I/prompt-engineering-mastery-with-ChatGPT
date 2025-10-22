@@ -91,8 +91,7 @@ Prompt-Engineering-Grandmaster-Journey/
 │       ├── architecture_diagram.png
 │       └── <a href="01_Structured_Academic_Curriculum/12_Capstone_I_Specialized_AI_Assistant/evaluation_criteria.md" target="_blank">evaluation_criteria.md</a>
 │
-</pre>
-<pre>
+|
 ├── 02_Self_Paced_Mastery_Track/             → Deep research and experimentation phase
 │   ├── 13_Deep_Concept_Mastery_and_Research/
 │   │   ├── <a href="02_Self_Paced_Mastery_Track/13_Deep_Concept_Mastery_and_Research/README.md" target="_blank">README.md</a>
@@ -138,8 +137,7 @@ Prompt-Engineering-Grandmaster-Journey/
 │   ├── <a href="03_Projects_and_Labs/Project_17_Prompt_Engineering_Portfolio.md" target="_blank">Project_17_Prompt_Engineering_Portfolio.md</a>
 │   └── <a href="03_Projects_and_Labs/Project_18_Master_Engineer_AI_Solution.md" target="_blank">Project_18_Master_Engineer_AI_Solution.md</a>
 │
-</pre>
-<pre>
+|
 ├── 04_Assessments_and_Progress/             → Evaluation and tracking
 │   ├── <a href="04_Assessments_and_Progress/README.md" target="_blank">README.md</a>
 │   ├── <a href="04_Assessments_and_Progress/lab_exercises.md" target="_blank">lab_exercises.md</a>
@@ -162,8 +160,7 @@ Prompt-Engineering-Grandmaster-Journey/
 │   │   └── ReAct_flow_diagram.png
 │   └── <a href="05_Resources_and_References/glossary_of_terms.md" target="_blank">glossary_of_terms.md</a>
 │
-</pre>
-<pre>
+|
 ├── 06_Appendices_and_Templates/             → Support documents
 │   ├── <a href="06_Appendices_and_Templates/appendix_a_prompt_patterns.md" target="_blank">appendix_a_prompt_patterns.md</a>
 │   ├── <a href="06_Appendices_and_Templates/appendix_b_scoring_templates.md" target="_blank">appendix_b_scoring_templates.md</a>
